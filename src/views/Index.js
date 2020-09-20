@@ -52,8 +52,6 @@ function Index() {
     <>
       <IndexNavbar />
       <IndexHeader />
-      <div className="main">
-      </div>
     </>
   );
 }
