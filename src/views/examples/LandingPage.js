@@ -17,7 +17,6 @@
 
 */
 
-/*
 import React from "react";
 
 // reactstrap components
@@ -369,4 +368,3 @@ function LandingPage() {
 }
 
 export default LandingPage;
-*/
