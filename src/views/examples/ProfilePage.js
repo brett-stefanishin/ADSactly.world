@@ -16,7 +16,7 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-/*
+
 import React from "react";
 
 // reactstrap components
@@ -118,8 +118,8 @@ function ProfilePage() {
               </Nav>
             </div>
           </div>
-          {/* Tab panes */
-          /*
+          {/* Tab panes */}
+          
           <TabContent className="following" activeTab={activeTab}>
             <TabPane tabId="1" id="follows">
               <Row>
@@ -199,4 +199,3 @@ function ProfilePage() {
 }
 
 export default ProfilePage;
-*/
