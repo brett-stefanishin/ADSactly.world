@@ -24,7 +24,6 @@ import Typical from "react-typical";
 import { Container } from "reactstrap";
 
 // core components
-
 function IndexHeader() {
   return (
     <>
